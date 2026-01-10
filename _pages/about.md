@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at the School of Artificial Intelligence, University of the Chinese Academy of Sciences. I have been admitted to the joint PhD program between ZGCA and CASIA. My research interests include 3D Generation, LLM applications, and Reinforce Learning. Most recently, I am focusing on:
+I am an undergraduate student at the School of Artificial Intelligence, University of the Chinese Academy of Sciences. I have been admitted to the joint PhD program between ZGCA and CASIA, advised by professor Ran He in MAIS & NLPR, CASIA. My research interests include 3D Generation, LLM applications, and Reinforce Learning. Most recently, I am focusing on:
 
 - 3D Generation
 - LLM applications in 3D space
@@ -30,7 +30,7 @@ I am an undergraduate student at the School of Artificial Intelligence, Universi
 # 📝 Publications 
 
 
-- [CoGrad3D: Spatially-Coupled Timestep Optimization with Orthogonal Gradient Fusion for 3D Generatio],**Haoyang Tong**, Hongbo Wang, Jin Liu, Qi Wang, Jie Cao, Ran He, **AAAI 2026**
+- <u>CoGrad3D: Spatially-Coupled Timestep Optimization with Orthogonal Gradient Fusion for 3D Generatio</u>,**Haoyang Tong**, Hongbo Wang, Jin Liu, Qi Wang, Jie Cao, Ran He, **AAAI 2026**
 
 
 # 📖 Educations
@@ -38,4 +38,4 @@ I am an undergraduate student at the School of Artificial Intelligence, Universi
 - *2026.09 - 2031.06*, admitted to the joint PhD program between ZGCA and CASIA. 
 
 # 💻 Internships
-I am currently seeking an internship opportunity based in Beijing. If you have any relevant openings, please feel free to reach out to me.
+I am currently seeking an internship opportunity based in Beijing. If you have any relevant openings, please feel free to reach out to me. Thank you for your time and attention.
