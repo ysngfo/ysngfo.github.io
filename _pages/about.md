@@ -21,7 +21,7 @@ I am an undergraduate student at the School of Artificial Intelligence, Universi
 
 - 3D Generation
 - LLM applications in 3D space
-- Reinforce Learning
+- Reinforce Learning in Generation
 
 
 # 🔥 News
@@ -30,7 +30,7 @@ I am an undergraduate student at the School of Artificial Intelligence, Universi
 # 📝 Publications 
 
 
-- <u>CoGrad3D: Spatially-Coupled Timestep Optimization with Orthogonal Gradient Fusion for 3D Generatio</u>,**Haoyang Tong**, Hongbo Wang, Jin Liu, Qi Wang, Jie Cao, Ran He, **AAAI 2026**
+- <u>CoGrad3D: Spatially-Coupled Timestep Optimization with Orthogonal Gradient Fusion for 3D Generation </u>, **Haoyang Tong**, Hongbo Wang, Jin Liu, Qi Wang, Jie Cao, Ran He, **AAAI 2026**
 
 
 # 📖 Educations
