@@ -30,7 +30,7 @@ I am an undergraduate student at the School of Artificial Intelligence, Universi
 # 📝 Publications 
 
 
-- [<u>CoGrad3D: Spatially-Coupled Timestep Optimization with Orthogonal Gradient Fusion for 3D Generation</u>](这里替换成你的论文链接), **Haoyang Tong**, Hongbo Wang, Jin Liu, Qi Wang, Jie Cao, Ran He, **AAAI 2026**
+- [CoGrad3D: Spatially-Coupled Timestep Optimization with Orthogonal Gradient Fusion for 3D Generation](https://ysngfo.github.io/pdf/CoGrad3D_AAAI2026.pdf), **Haoyang Tong**, Hongbo Wang, Jin Liu, Qi Wang, Jie Cao, Ran He, **AAAI 2026**
 
 
 # 📖 Educations
@@ -38,4 +38,4 @@ I am an undergraduate student at the School of Artificial Intelligence, Universi
 - *2026.09 - 2031.06*, admitted to the joint PhD program between ZGCA and CASIA. 
 
 # 💻 Internships
-I am currently seeking an internship opportunity based in Beijing. If you have any relevant openings, please feel free to reach out to me. Thank you for your time and attention.
+I am currently seeking an internship opportunity based in Beijing. If you have any relevant openings, please feel free to reach out to me. Thank you for your time and attention. Here is my [CV](https://ysngfo.github.io/pdf/cv20260202.pdf).
